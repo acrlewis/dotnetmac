@@ -20,10 +20,11 @@ dnvm install -r coreclr latest -u
 cd ~/workspace/dotnet/myfirstapp
 ```
 
+### create C# file
+
 ```
 vi HelloWorld.cs
 ```
-
 ### Save this in the file
 ```
 using System;
@@ -34,7 +35,7 @@ using System;
         	}
         }
 ```
-
+### create project json
 ```
 vi project.json
 ```

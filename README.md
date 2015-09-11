@@ -70,7 +70,7 @@ dnx run
 Hello World from Core CLR!
 ```
 
-## For an IDE, I'm testing monodevelop and code (atom clone)
+#### For an IDE, I'm testing monodevelop and code (atom clone)
 
 http://www.monodevelop.com/download/
 https://code.visualstudio.com/Docs/?dv=osx
